@@ -1,1 +1,0 @@
-Moodle Block to report which activities and resources a user has completed in a course.

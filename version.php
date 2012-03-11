@@ -18,11 +18,11 @@
  * Reports activities and resources that have been completed by user
  *
  * @package   block_completedtracking
- * @copyright 2012
+ * @copyright 2012 Close the Distance, LLC
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
  
-$plugin->version = 2012030300;
+$plugin->version = 2012031000;
 $plugin->requires = 2011120100;
 $plugin->cron = 0;
 $plugin->maturity = MATURITY_ALPHA;

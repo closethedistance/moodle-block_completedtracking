@@ -18,7 +18,7 @@
  * Global configuration of 'completedtracking' block
  *
  * @package   block_completedtracking
- * @copyright 2012
+ * @copyright 2012 Close the Distance, LLC
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
  

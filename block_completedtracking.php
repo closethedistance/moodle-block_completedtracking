@@ -18,7 +18,7 @@
  * Reports activities and resources that have been completed by user
  *
  * @package   block_completedtracking
- * @copyright 2012
+ * @copyright 2012 Close the Distance, LLC
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
