@@ -1,0 +1,4 @@
+This verison of the block is a first step toward a versatile block that will track and display in summary form which activities and resources a user has completed within a Moodle course.
+Currently the block tabulates a value for each completed activity/resource based on the section name. Eventually these values will be customizable based on the type of activity/resource.
+Case use for the tabulation is to allow students to complete a certain number of specific types of assignments. This will help students determine if they have completed the minimum number.
+Eventually the goal is to make it configurable to enable/disable certain functions.
